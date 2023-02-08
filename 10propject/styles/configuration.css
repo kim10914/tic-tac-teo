@@ -66,13 +66,13 @@
 #game-configuration h3{
     font-size: 1.5rem;
     margin: 0.5rem 0;
-    color: rgb(94, 4, 168);
+    color: rgb(4, 48, 168);
 }
 
 .player-symbol{
     font-size: 2rem;
     font-weight: bold;
-    color: rgb(47, 7, 82);
+    color: rgb(7, 35, 82);
     margin: 0.5rem 0;
     
 }
